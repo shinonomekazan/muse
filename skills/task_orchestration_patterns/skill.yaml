@@ -1,0 +1,5 @@
+name: "task_orchestration_patterns"
+title: "タスク実行パターン（監査・盲検再現・合議・並列）"
+description: "ユーザーが指定した実行パターンでサブエージェントを編成してタスクを実行するスキルで、「パターンAで」「監査付きで」「パターンBで」「盲検再現で」「再現テストで」「パターンCで」「合議して」「マギで決めて」「パターンDで」「並列で調べて」と言われたときに使う。"
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "structured_research"
+title: "リサーチ定型手法（仮説検証型）"
+description: "仮説を先に固定し、事前情報と実データを突き合わせて検証するリサーチの定型手法で、「リサーチして」「仮説は〜なので調べて」と仮説付きで調査を依頼されたときに使う。入力はリサーチしたい内容・仮説・事前情報の3点、出力は内容／仮説と事前情報／方法／仮説との比較／結論の順で固定。"
+category: "Work and knowledge"
+include_in_prompt: true
